@@ -1,0 +1,11 @@
+export default function FloatingOrbs() {
+  return (
+    <div className="orbs" aria-hidden="true">
+      <div className="orb orb--a" />
+      <div className="orb orb--b" />
+      <div className="orb orb--c" />
+      <div className="orb orb--d" />
+    </div>
+  );
+}
+
